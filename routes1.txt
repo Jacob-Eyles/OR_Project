@@ -1,0 +1,15 @@
+Distribution North,The Warehouse Clendon,The Warehouse Glenfield Mall,Noel Leeming Glenfield Clearance,Distribution North
+Distribution North,The Warehouse Milford,Noel Leeming Henderson,The Warehouse New Lynn,Distribution North
+Distribution North,The Warehouse Pakuranga,Noel Leeming Lunn Avenue,Distribution North
+Distribution North,The Warehouse Airport,Noel Leeming Manukau Supa Centre,The Warehouse Albany,Distribution North
+Distribution South,The Warehouse Mt Roskill,Noel Leeming Manukau Westfield,The Warehouse Botany Downs,Distribution South
+Distribution North,Noel Leeming Botany,The Warehouse Manukau,Noel Leeming Albany,Distribution North
+Distribution North,Noel Leeming Massey,Noel Leeming Newmarket,Distribution North
+Distribution North,The Warehouse Sylvia Park,The Warehouse Takanini,Noel Leeming New Lynn,Distribution North
+Distribution North,The Warehouse Atrium,Noel Leeming Ormiston,Distribution North
+Distribution North,The Warehouse WestCity,Noel Leeming Papakura,Distribution North
+Distribution North,Noel Leeming Papatoetoe,The Warehouse Westgate,Noel Leeming Penrose Clearance,Distribution North
+Distribution South,Noel Leeming Queen Street,Noel Leeming St Lukes Westfield,Distribution South
+Distribution South,The Warehouse Lincoln Road,Noel Leeming Royal Oak,The Warehouse Lunn Avenue,Distribution South
+Distribution South,Noel Leeming Sylvia Park,The Warehouse Newmarket,Noel Leeming St Lukes Mega,Distribution South
+Distribution South,The Warehouse Royal Oak,Noel Leeming Wairau Park,The Warehouse St Lukes,Distribution South

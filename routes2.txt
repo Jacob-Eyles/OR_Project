@@ -1,0 +1,10 @@
+Distribution North,The Warehouse Milford,The Warehouse Clendon,Distribution North
+Distribution South,The Warehouse Lincoln Road,The Warehouse Manukau,Distribution South
+Distribution North,The Warehouse Albany,The Warehouse Airport,Distribution North
+Distribution South,The Warehouse Glenfield Mall,The Warehouse Botany Downs,Distribution South
+Distribution North,The Warehouse Sylvia Park,The Warehouse Westgate,Distribution North
+Distribution South,The Warehouse Lunn Avenue,The Warehouse Atrium,Distribution South
+Distribution South,The Warehouse Mt Roskill,The Warehouse Newmarket,Distribution South
+Distribution South,The Warehouse St Lukes,The Warehouse Royal Oak,Distribution South
+Distribution North,The Warehouse New Lynn,The Warehouse WestCity,Distribution North
+Distribution North,The Warehouse Takanini,The Warehouse Pakuranga,Distribution North
